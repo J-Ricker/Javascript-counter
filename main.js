@@ -17,7 +17,7 @@
             // change color
 
             if (counterValue === 0) {
-                counter.style.color = "#333333";
+                counter.style.color = "#f5f5f5";
             } else if (counterValue < 0) {
                 counter.style.color = "#f6511d";
             } else if (counterValue > 0) {
