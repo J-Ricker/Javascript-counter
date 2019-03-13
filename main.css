@@ -11,7 +11,7 @@
 }
 
 body {
-    background: url("../img/mainBcg.jpeg") center/cover fixed no-repeat;
+    background: url("img/philippe-nick-1433606-unsplash.jpg") center/cover fixed no-repeat;
     color: var(--mainWhite);
 }
 
@@ -24,7 +24,7 @@ body {
 #counter {
     color: var(--mainGreen);
     font-size: 10rem;
-    color: var(--mainBlack);
+    color: var(--mainWhite);
 }
 
 .prevBtn,
